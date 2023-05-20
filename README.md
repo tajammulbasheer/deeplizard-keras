@@ -1,20 +1,16 @@
 # Keras with Tensorflow, a Python Deep Learning and Neural Network API
 [Offered by Deep Lizard on YouTube with freeCodeCamp](https://youtu.be/qFJeN9V1ZsI)
 
-These are notebooks I wrote following the course [__Neural Network Programming - Deep Learning with PyTorch__](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) by [deeplizard](https://twitter.com/deeplizard).
-
+These are notebooks I wrote following this course.
+Note:
+Anything good and helpful in these notbooks should be credited to [freeCodeCamp.org](https://www.freecodecamp.org/) and [DeepLizard](https://deeplizard.com/).
+Anything foolish or incorrect assume it as my error
 
 # Contents
-
-* [1. Introduction](https://nbviewer.jupyter.org/github/particle1331/lizard-torch-course/blob/master/1-Introduction.ipynb)
-* [2. PyTorch Tensors](https://nbviewer.jupyter.org/github/particle1331/lizard-torch-course/blob/master/2-PyTorch-Tensors.ipynb)
-* [3. Dataset and Dataloader, MNIST](https://nbviewer.jupyter.org/github/particle1331/lizard-torch-course/blob/master/3-Dataset-and-Dataloader-MNIST.ipynb)
-* [4. Object Oriented Neural Networks, CNN](https://nbviewer.jupyter.org/github/particle1331/lizard-torch-course/blob/master/4-Object-Oriented-Neural-Networks-CNN.ipynb)
-* [5. Training the CNN](https://nbviewer.jupyter.org/github/particle1331/lizard-torch-course/blob/master/5-Training-the-CNN.ipynb)
-* [6. TensorBoard, Hyperparameter Tuning](https://nbviewer.jupyter.org/github/particle1331/lizard-torch-course/blob/master/6-TensorBoard-for-Visualization-and-Hyperparameter-Tuning.ipynb)
-
-
-
-Appendix
-* [TensorBoard in Google Colab](https://nbviewer.jupyter.org/github/particle1331/lizard-torch-course/blob/master/Running-TensorBoard-Colab-GPU.ipynb)
-* [Confusion Matrix for Classification](https://nbviewer.jupyter.org/github/particle1331/lizard-torch-course/blob/master/7-Confusion-Matrix-for-Classification.ipynb)
+* [0. Prerequisites](https://github.com/tajammulbasheer/keras_with_tenforflow/blob/main/0.prerequisites.ipynb)
+* [1. Sequential Mode;](https://github.com/tajammulbasheer/keras_with_tenforflow/blob/main/1.sequential_model.ipynb)
+* [2. CNN ](https://github.com/tajammulbasheer/keras_with_tenforflow/blob/main/3.vgg16_catvsdog.ipynb)
+* [3. VGG16 and Transfer Learning](https://github.com/tajammulbasheer/keras_with_tenforflow/blob/main/4.mobile_net.ipynb)
+* [4. MobileNet](https://github.com/tajammulbasheer/keras_with_tenforflow/blob/main/5.mobilenrt_sign_lang_digits.ipynb)
+* [5. Mobilenet and Sign Language Digits](https://github.com/tajammulbasheer/keras_with_tenforflow/blob/main/5.mobilenrt_sign_lang_digits.ipynb)
+* [6. Data Augementation](https://github.com/tajammulbasheer/keras_with_tenforflow/blob/main/6.dataaug.ipynb)
