@@ -1,7 +1,7 @@
 # Keras with Tensorflow by DeepLizard
 Offered by Deep Lizard on YouTube with freeCodeCamp
 
-These are notebooks I wrote following this course.
+These are notebooks I wrote following this course.<br>
 Note:
 Anything good and helpful in these notbooks should be credited to [freeCodeCamp.org](https://www.freecodecamp.org/) and [DeepLizard](https://deeplizard.com/).
 Anything foolish or incorrect assume it as my error
