@@ -4,7 +4,7 @@ Offered by Deep Lizard on YouTube with freeCodeCamp
 These are notebooks I wrote following this course.<br>
 Note:
 Anything good and helpful in these notbooks should be credited to [freeCodeCamp.org](https://www.freecodecamp.org/) and [DeepLizard](https://deeplizard.com/).
-Anything foolish or incorrect assume it as my error
+Anything foolish or incorrect assume it as my error.
 
 ## Contents
 * [0. Prerequisites](https://github.com/tajammulbasheer/keras_with_tenforflow/blob/main/0.prerequisites.ipynb)
@@ -54,13 +54,18 @@ Anything foolish or incorrect assume it as my error
 ## Data Augementation
 - Learnt about augementing image data in different ways
 
-## Papers
-[Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)<br>
+## Resources
+ ### Papers
+ [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)<br>
  [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
 
-## Datasets
-Cat vs Dog on [Kaggle](https://www.kaggle.com/c/dogs-vs-cats/data) <br>
-Sign Language Digits Images on [Git](https://github.com/ardamavi/Sign-Language-Digits-Dataset)
+ ### Datasets
+ Cat vs Dog on Kaggle [here](https://www.kaggle.com/c/dogs-vs-cats/data) <br>
+ Sign Language Digits Images on Git [here](https://github.com/ardamavi/Sign-Language-Digits-Dataset)
+ 
+ ### Others
+ Keras also has it's own beautiful website, providing useful information about how things are to be used with written code examples.
+ That can be found [here](https://keras.io/examples/)
 
 ## Contributions
 This project is open to contributions, feel free to fork the repository and make pull requests.
