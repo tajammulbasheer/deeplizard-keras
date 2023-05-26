@@ -4,7 +4,8 @@ Offered by Deep Lizard on YouTube with freeCodeCamp
 These are notebooks I wrote following this course.<br>
 Note:
 Anything good and helpful in these notbooks should be credited to [freeCodeCamp.org](https://www.freecodecamp.org/) and [DeepLizard](https://deeplizard.com/).
-Anything foolish or incorrect assume it as my error.
+Anything foolish or incorrect assume it as my error.<br>
+This basic course only uses the upper level features of Tensorflow api with help of Keras
 
 ## Contents
 * [0. Prerequisites](https://github.com/tajammulbasheer/keras_with_tenforflow/blob/main/0.prerequisites.ipynb)
