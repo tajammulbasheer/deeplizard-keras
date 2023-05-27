@@ -77,6 +77,9 @@ This basic course only uses the upper level features of Tensorflow api with help
 ## How to use
   1. How to Use
   2. Open the Jupyter notebook.
+  3. Load the data by specifying the path to the dataset.
+  4. Train the models using the different techniques mentioned in the notebook.
+  
 ## Resources
  ### Papers
  [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)<br>
@@ -91,4 +94,4 @@ This basic course only uses the upper level features of Tensorflow api with help
  That can be found [here](https://keras.io/examples/)
 
 ## Contributions
-This project is open to contributions, feel free to fork the repository and make pull requests.
+This project is open to contributions, feel free to fork the repository and make pull requests, and it whatever way you want.
