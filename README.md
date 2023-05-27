@@ -1,6 +1,6 @@
 # Keras with Tensorflow by DeepLizard
-Offered by Deep Lizard on YouTube with freeCodeCamp
-
+## Project Description
+Keras with Tensorflow is  a course offered by Deep Lizard on YouTube with freeCodeCamp
 These are notebooks I wrote following this course.<br>
 Note:
 Anything good and helpful in these notbooks should be credited to [freeCodeCamp.org](https://www.freecodecamp.org/) and [DeepLizard](https://deeplizard.com/).
@@ -16,12 +16,12 @@ This basic course only uses the upper level features of Tensorflow api with help
 * [5. Mobilenet and Sign Language Digits](https://github.com/tajammulbasheer/keras_with_tenforflow/blob/main/5.mobilenrt_sign_lang_digits.ipynb)
 * [6. Data Augementation](https://github.com/tajammulbasheer/keras_with_tenforflow/blob/main/6.dataaug.ipynb)
 
-## Prerequisites
+### Prerequisites
  - Describing course prequitistes.
  - Introducing Keras and Tensorflow
  - How to setup GPU and CUDA
 
-## Sequential Model
+### Sequential Model
 - Data Preprocessing for Neural  Networks
 - Creating an Artificial Neural Network with Keras
 - Trainimg a Simple ANN
@@ -29,32 +29,54 @@ This basic course only uses the upper level features of Tensorflow api with help
 - Making predictions using the model
 - Saving and loading model
 
-## CNN
+### CNN
 - Image data preperation for CNN
 - Creating a simple CNN for image classification of Cat vs Dogs
 - Building and training the CNN
 - Making predictions using CNN
 
-## VGG16
+### VGG16
 - Introducing concept of functional API
 - Converting VGG16 to sequential model
 - Fine tuning VGG16 for Cat Dog Classification
 - Training fine tuned model
 - Making Predictions using fine tuned model
 
-## MobileNet
+### MobileNet
 - Introduction MobileNet
 - Preparing images fore MobileNet
 - Making predictions directly on images using MobileNet
 
-## MobileNet and Sign Language Digits
+### MobileNet and Sign Language Digits
 - Preparing data for MobileNet
 - Modify the MobileNet for Sign Language Digits
 - Fine tune the MobileNet for image classification
 
-## Data Augementation
+### Data Augementation
 - Learnt about augementing image data in different ways
 
+## Technologies Used
+- Python
+- skit-learn
+- OpenCV
+- Keras
+
+## Requirments
+- Python 3.x
+- TensorFlow 2.0 or higher
+- scikit-learn
+- OpenCV
+- Keras   
+
+## Installation
+  1. Clone the repository
+  2. Install the required libraries using pip install
+  3. Download the dataset from below
+  4. Run the Jupyter notebook to train and test the different models
+
+## How to use
+  1. How to Use
+  2. Open the Jupyter notebook.
 ## Resources
  ### Papers
  [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)<br>
