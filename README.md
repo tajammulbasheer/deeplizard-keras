@@ -58,14 +58,12 @@ This basic course only uses the upper level features of Tensorflow api with help
 ## Technologies Used
 - Python
 - skit-learn
-- OpenCV
 - Keras
 
 ## Requirments
 - Python 3.x
 - TensorFlow 2.0 or higher
 - scikit-learn
-- OpenCV
 - Keras   
 
 ## Installation
